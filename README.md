@@ -7,7 +7,3 @@
 - 👨‍💻 I share my learning journey with the world on Medium. You can check [my Medium profile](https://medium.com/@yigitatak) for my articles.  
 - ✅ My plan is to collab with other developers on GitHub, get new connections and contribute to open source projects to my best ability.
 - 🎯 My 2022 goal is to get better at JavaScript(specifically async), data structures and React.
-
-<p align="center">
-  ![Arintia's GitHub stats](https://github-readme-stats.vercel.app/api?username=arintia&show_icons=true&theme=tokyonight)
-</p>
